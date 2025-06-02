@@ -1,5 +1,7 @@
 # 基于aria2c、ffmpeg、cmder的HLS下载脚本
 
+aria2c→https://github.com/aria2/aria2
+
 ## 使用说明
 
 * 1、使用Chrome或者Chromium内核浏览器，F12找到网络标签
