@@ -1,4 +1,4 @@
-# 基于aria2c、ffmpeg、cmder的HLS下载脚本
+# 基于aria2c、ffmpeg的HLS下载脚本
 
 aria2c→https://github.com/aria2/aria2
 
