@@ -1,6 +1,7 @@
 # 基于aria2c、ffmpeg的HLS下载脚本
 
 aria2c→https://github.com/aria2/aria2
+需要aria2c环境
 
 ## 使用说明
 
